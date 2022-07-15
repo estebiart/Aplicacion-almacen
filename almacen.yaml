@@ -1,0 +1,7 @@
+openapi: 3.0.0
+basedatos: 
+  path: "datos\\almacen.db"
+info:
+  title: Almacen Python
+  description: Almacen Python
+  version: 0.1
